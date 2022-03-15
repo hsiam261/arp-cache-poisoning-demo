@@ -1,2 +1,2 @@
 # arp-cache-poisoning-demo
-Demonstrates a arp cache poisoning attack using docker
+Demonstrates an ARP cache poisoning attack using docker
